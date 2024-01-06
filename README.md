@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm VEDANG MISHRA</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-- 🌱 I’m currently learning **java spring,DSA**
+- 🌱 I’m currently learning **java spring,DSA,devops**
 
 - 💬 Ask me about **react,javascript,**
 
