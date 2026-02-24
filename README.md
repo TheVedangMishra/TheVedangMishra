@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vedang Mishra</h1>
-<h3 align="center"> Data Analyst Enthusiast | Full Stack Developer </h3>
+<h3 align="center"> Data Analyst Enthusiast | Highly Motivated AI/ML Engineer </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=2F81F7&center=true&width=650&lines=Turning+Data+into+Insights+%F0%9F%93%8A;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Visualization+%7C+ML+%7C+Dashboards" alt="typing"/>
